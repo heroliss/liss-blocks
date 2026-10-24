@@ -1,0 +1,66 @@
+{
+  "sourceYear": 2015,
+  "files": [
+    {
+      "path": "Block.cs",
+      "bytes": 3632,
+      "sha256": "b16812d5bfb06b367d1c352349cbfb615d933d52be8d8ae9ed340a2c7cd27e12"
+    },
+    {
+      "path": "BlockGroup.cs",
+      "bytes": 1538,
+      "sha256": "f24c33132146863899490b51ac85630df0897d3817c7a65e7c5476700b8fc69e"
+    },
+    {
+      "path": "BlockInfo.cs",
+      "bytes": 1209,
+      "sha256": "13a743f72102b1dad493181298303bb71ec821cad6dca18edb6e8d98defd34a4"
+    },
+    {
+      "path": "Config.cs",
+      "bytes": 10268,
+      "sha256": "93ada0fd35c9e4f3dbefffefc253ba22f3998fd5611d795684932199aaa4d689"
+    },
+    {
+      "path": "Form1.cs",
+      "bytes": 9999,
+      "sha256": "30fbbb5c20c2d97b7d47a2aa90fc963f9a79b806cb951498684463eb4f4fa4c5"
+    },
+    {
+      "path": "Form1.Designer.cs",
+      "bytes": 23958,
+      "sha256": "38d0d7d24f0a499b476ce2479881823671f39a03b47e6208796f4b84a3454d0f"
+    },
+    {
+      "path": "FrmTetris.cs",
+      "bytes": 4233,
+      "sha256": "dbad1e5b97a4b1af3400f9d1609b795c1640174afb4a81efed3b4c2541566561"
+    },
+    {
+      "path": "FrmTetris.Designer.cs",
+      "bytes": 6334,
+      "sha256": "0010055886159be234a03469b979836ec78f5c59d3cf9b13dcf4c5add89b4bf8"
+    },
+    {
+      "path": "InfoArr.cs",
+      "bytes": 3017,
+      "sha256": "04804ba40727333c9b5ae537964e2023865f415feaf2b1047e4d530a5a916506"
+    },
+    {
+      "path": "Palette.cs",
+      "bytes": 11872,
+      "sha256": "42f4ae628bb81ebd58899bc9f1abb8c409362b2e6307300e25f0977fcbbeb4ae"
+    },
+    {
+      "path": "Program.cs",
+      "bytes": 522,
+      "sha256": "c8b7d4b53b7c9b460d5b3d4b92237e0799d8d3386b2bb86f1b9b30f1627e1be3"
+    },
+    {
+      "path": "WindowsFormsApplication2.csproj",
+      "bytes": 4669,
+      "sha256": "511d89c418e04d303a1aa81e9e25774776f23ba8bb89fe3891284f5260245bef"
+    }
+  ],
+  "excluded": "No historical database, pfx, user XML, binary, bin/obj or private data copied."
+}
